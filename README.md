@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.png" alt="Vigilens logo" width="360">
+</p>
+
 ## Table of Contents
 
 - [Welcome!](#welcome)
